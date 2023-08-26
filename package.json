@@ -2,8 +2,8 @@
   "name": "ddswap-token-lists",
   "author": {
     "name": "ddswap Labs",
-    "email": "admin@dsme.vip",
-    "url": "https://www.dsme.vip"
+    "email": "admin@dsme.space",
+    "url": "https://url.dsme.space/InfoUrl"
   },
   "description": "📚 The Token Lists specification",
   "version": "1.0.0",
@@ -18,7 +18,7 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "https://github.com/Decology/ddswap-token-lists",
+    "url": "https://github.com/dsmeworld/ddswap-token-lists",
     "type": "git"
   },
   "scripts": {
